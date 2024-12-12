@@ -1,0 +1,7 @@
+{
+    "items": [
+      { "id": 1, "name": "Element 1", "image": "path_to_image_1.jpg" },
+      { "id": 2, "name": "Element 2", "image": "path_to_image_2.jpg" }
+    ]
+  }
+  
